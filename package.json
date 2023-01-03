@@ -1,0 +1,11 @@
+{
+  "name": "index2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "novoProjeto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heliton",
+  "license": "ISC"
+}
